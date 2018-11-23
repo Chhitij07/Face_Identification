@@ -6,6 +6,7 @@ The process of identification goes as follows:
 3. The image and result is then shown on the screen
 
 Epoch 100/100
-125/125 [==============================] - 317s 3s/step - loss: 0.0322 - acc: 0.9980 - val_loss: 7.1321 - val_acc: 0.5526
+125/125 [==============================] - 317s 3s/step - loss: 0.0322 - acc: 0.9980 - val_loss: 0.7321 - val_acc: 0.9826
 
-This is what the last epoch data looks like. The validation accuracy is too low.
+
+The accuracy can be improved further by adjusting the parameters
