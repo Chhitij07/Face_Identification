@@ -10,3 +10,5 @@ Epoch 100/100
 
 
 The accuracy can be improved further by adjusting the parameters
+
+Currently working on improving accuracy using triplet loss
